@@ -1,3 +1,5 @@
+//Eduardo Bocanegra. Arch 1
+//Program Will Store names in a BST
 #include<stdio.h>
 #include<string.h>
 #include <ctype.h>
